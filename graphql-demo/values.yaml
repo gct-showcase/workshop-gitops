@@ -1,4 +1,4 @@
 global: {}
 graphql-demo:
   base:
-    replicaCount: 4
+    replicaCount: 1
