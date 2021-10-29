@@ -1,0 +1,3 @@
+global: {}
+inventory-ui-sms:
+  replicaCount: 1
