@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: inventory-bff-sms
+description: Chart to configure ArgoCD with the inventory-bff-sms project and its applications
