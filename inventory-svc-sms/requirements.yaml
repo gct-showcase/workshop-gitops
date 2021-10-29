@@ -1,5 +1,4 @@
 dependencies:
   - name: inventory-svc-sms
-    version: 0.0.2
-    repository: >-
-      http://artifactory-artifactory.tools:8082/artifactory/generic-local/workshop-team-one
+    version: 0.0.3
+    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/workshop-team-one
